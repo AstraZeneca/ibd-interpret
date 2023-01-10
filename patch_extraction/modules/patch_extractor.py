@@ -111,9 +111,6 @@ class PatchExtractor:
 
             mask = HALO_mask()
 
-            #slide_masked = mask(slide) # used for debugging
-            #slide_masked.save('slide_masked.png')
-
             filename = self.wsi_path.split("/")[-1].split(".")[0]
 
             # if get mask is true, save tissue mask
