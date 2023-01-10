@@ -1,0 +1,11 @@
+method: "grid_extract"
+patch_size: 224
+level: 0
+check_tissue: True
+tissue_percent: 50
+suffix: ".png"
+pixel_overlap: 0.0
+alpha: 128
+get_mask: True
+get_patch_locations: True
+save_patches: True
