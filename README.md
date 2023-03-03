@@ -1,6 +1,6 @@
 # IBD-INTERPRET: IBD-INTERpretable PRediction of disease-relevant fEaTures
 
-Code for the paper "Interpretable histopathology-based prediction of disease relevant features in Inflammatory Bowel Disease biopsies using weakly-supervised deep learning" - Accepted for publication at MIDL 2023
+Code for the paper *"Interpretable histopathology-based prediction of disease relevant features in Inflammatory Bowel Disease biopsies using weakly-supervised deep learning"* - **Accepted for publication at MIDL 2023**
 
 ![pipeline](imgs/pipeline.png)
 
